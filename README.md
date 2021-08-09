@@ -2,7 +2,7 @@
 A powerful img util, use pillow + pyheif + piexif
 
 ## Installation
-You can install from *Pypi*: 
+You can install from *Pypi*:  
 `pip install pillow pyheif_pillow_opener piexif pyexif`
 
 ## How to use

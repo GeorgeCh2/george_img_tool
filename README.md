@@ -24,5 +24,5 @@ You can install from *Pypi*:
 `python imgutil.py -i input.jpg -rmgps`
 3. resize image  
 ``` python imgutil.py -i input.jpg -quality 85 -resize "{'out1.jpg':'1600x1200', 'out2.jpg':"1280x720"}" ```
-4. convert
+4. convert  
 `python imgutil.py -i input.heif -quality 85 -o out.jpg`

@@ -9,12 +9,14 @@ from pyheif_pillow_opener import register_heif_opener
 Format = {
     "image/jpeg": "JPEG",
     "image/png": "PNG",
-    "image/heic": "HEIC"
+    "image/heic": "HEIC",
+    "image/webp": "WEBP"
 }
 
 Ext_Format = {
     "jpg": "JPEG",
     "png": "PNG",
+    "webp": "WEBP",
     "heic": "HEIC",
     "HEIC": "HEIC"
 }

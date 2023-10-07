@@ -1,5 +1,5 @@
 # myimg
-A powerful image util.
+A powerful image tool.
 
 It supports **HEIF, Webp, JPEG, and PNG** images, the main functions include **resizing 、format conversion, reading image information, and deleting image GPS information**.  
 It's simple and easy to use.

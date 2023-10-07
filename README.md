@@ -19,7 +19,7 @@ A Python util for image process。
 * [pyexif](https://pypi.org/project/pyexif/)
 * [pyheif_pillow_opener](https://pypi.org/project/pyheif-pillow-opener/)
 
-## Installation
+### Installation
 You can install it from *Pypi*:  
 `pip install pillow pyheif_pillow_opener piexif pyexif`
 
